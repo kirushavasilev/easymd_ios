@@ -16,21 +16,26 @@ ______
 Securely authenticate using a “repo” scoped personal access token. No OAuth or external login flows needed.
 
 •	📝 Live Markdown Editor
+
 Edit posts with real-time markdown formatting. Bold, italic, headings — all rendered as you type.
 
 •	🖼️ Image Insertion from Phone
+
 Embed images directly from your phone into your markdown content.
 
 •	🗃️ Draft Support
+
 Create drafts offline, manage them in-app, and publish when ready.
 	
 •	💬 Custom Commit Messages
+
 When publishing, you’re prompted to enter your own commit message for transparency and version tracking.
 	•	🧹 Simple UI / UX
 	•	Swipe to delete
 	•	Long-press to select
 	•	One-tap publish
 	•	🔄 Full GitHub Sync
+ 
 Pull all markdown files from your repository to read, edit, and sync back with a single tap.
 
 ⸻
@@ -58,7 +63,7 @@ This app only supports blog posts formatted in a specific markdown structure, li
 📦 Getting Started
 	1.	Clone this repo:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kirushavasilev/easymd_ios.git
 
 
 	2.	Open in Xcode.
