@@ -4111,7 +4111,7 @@ struct SplashScreen: View {
                         .offset(y: showText ? 0 : 30)
                     
                     // App name/branding
-                    Text("Kirusha's Blog")
+                    Text("Your Blog")
                         .font(.system(size: 18, weight: .medium, design: .rounded))
                         .foregroundColor(.white.opacity(0.8))
                         .opacity(showText ? 1 : 0)
