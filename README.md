@@ -10,6 +10,7 @@ ______
 ______
 
 ✨ Features
+
 •	🔐 GitHub Repo Token Authentication
 
 Securely authenticate using a “repo” scoped personal access token. No OAuth or external login flows needed.
